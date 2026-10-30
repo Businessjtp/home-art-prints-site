@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /checkout/
+
+Sitemap: https://homeartprints.co.uk/sitemap.xml
